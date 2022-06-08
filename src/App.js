@@ -20,15 +20,18 @@ import Dropdown from './components/Dropdown';
 const options = [
     {
         label: 'Red',
-        value: 'red'
+        value: 'red',
+        // background: '#E34A71'
     },
     {
         label: 'Green',
-        value: 'green'
+        value: 'green',
+        // background: '#10B981'
     },
     {
         label: 'Blue',
-        value: 'blue'
+        value: 'blue',
+        // background: '#0EA5E9'
     }
 ]
 
